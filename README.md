@@ -5,7 +5,7 @@ this site for Code 401 - Advanced Software Development
 
 |NAME|LINK|
 | ---      | ---         |
-||[Repo](https://github.com/AbdullahMou/reading-notes)|
+|reading-notes|[Repo](https://github.com/AbdullahMou/reading-notes)|
 | Big O notation|[read1](https://abdullahmou.github.io/reading-notes/read1)|
 | | [read2](https://abdullahmou.github.io/reading-notes/read2) |
 ||[read3](https://abdullahmou.github.io/reading-notes/read3) |
