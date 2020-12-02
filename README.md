@@ -9,8 +9,8 @@ this site for Code 401 - Advanced Software Development
 | Big O notation|[read1](https://abdullahmou.github.io/reading-notes/read1)|
 | Testing and Modules| [read2](https://abdullahmou.github.io/reading-notes/read2) |
 |FileIO & Exceptions|[read3](https://abdullahmou.github.io/reading-notes/read3) |
-| |[read4](https://abdullahmou.github.io/reading-notes/read4)  |
-|  |[read5](https://abdullahmou.github.io/reading-notes/read5)|
+|Classes and Objects |[read4](https://abdullahmou.github.io/reading-notes/read4)  |
+| Linked Lists |[read5](https://abdullahmou.github.io/reading-notes/read5)|
 | |[read6](https://abdullahmou.github.io/reading-notes/read6)     |
 |  |[read7](https://abdullahmou.github.io/reading-notes/read7)|
 | |  [read8](https://abdullahmou.github.io/reading-notes/read8) |
